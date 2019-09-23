@@ -9,6 +9,7 @@
 <body>
 
 <h1>exam</h1>
-<a href="exam/Login.jsp">log</a>
+<a href="exam/Login.jsp">Login</a>
+
 </body>
 </html>
